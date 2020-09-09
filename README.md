@@ -1,4 +1,4 @@
-<img alt="Logo Clone Mercado Livre" src="assets/Clone-Mercado-livre.png" />
+<img alt="Logo Clone Mercado Livre" src="src/assets/Clone-Mercado-livre.png" />
 
 <p align="center">
 
@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 This project is a clone of the free market product page, it was done entirely for the purpose of learning.
 
-<img alt="front page mercado livre" src="assets/clone-mercadolivre.png" />
+<img alt="front page mercado livre" src="src/assets/clone-mercadolivre.png" />
 
 ## 🤔 How to contribute
 
