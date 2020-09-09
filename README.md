@@ -61,6 +61,10 @@ yarn start
 
 This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
 
+## 🙏🏼 Acknowledgments
+
+I want to thank [Rocketseat](https://github.com/Rocketseat) for devising and providing the basis for this project
+
 ---
 
 Made with 💜 by Wesley Feitosa :wave:
